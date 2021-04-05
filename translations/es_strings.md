@@ -79,7 +79,7 @@ Do you really want to delete this marker?
 ```
 translated (by machine 🤖) as:
 ```
-¿Realmente desea eliminar este marcador?
+¿Desea realmente eliminar este marcador?
 ```
 
 
@@ -99,7 +99,7 @@ Could not copy coordinates to clipboard
 ```
 translated (by machine 🤖) as:
 ```
-No se pudo copiar las coordenadas al portapapeles
+Las coordenadas no pudieron ser copiadas al portapapeles
 ```
 
 
@@ -109,7 +109,7 @@ Coordinates copied to clipboard
 ```
 translated (by machine 🤖) as:
 ```
-Coordina copiado al portapapeles
+Coordenadas copiadas al portapapeles
 ```
 
 
@@ -119,7 +119,7 @@ Failed to access application save directory. Make sure that your device is not b
 ```
 translated (by machine 🤖) as:
 ```
-No se ha podido acceder a la aplicación de ahorro de directorio. Asegúrese de que su dispositivo no está accediendo a un ordenador con el cable USB y reinicie la aplicación.
+No se ha podido acceder a la carpeta de la aplicación. Asegúrese de que su dispositivo no esté conectado a un ordenador vía cable USB y reinicie la aplicación.
 ```
 
 
@@ -129,7 +129,7 @@ Untitled
 ```
 translated (by machine 🤖) as:
 ```
-Intitulado
+Sin título
 ```
 
 
@@ -189,7 +189,7 @@ Failed to rename the folder, the destination name already exists
 ```
 translated (by machine 🤖) as:
 ```
-Error al cambiar el nombre de la carpeta, ya existe el nombre del destino
+Error al cambiar el nombre de la carpeta, ya existe otra con ese nombre
 ```
 
 
@@ -229,7 +229,7 @@ Import/Export
 ```
 translated (by machine 🤖) as:
 ```
-Importación Y Exportación
+Importar/Exportar
 ```
 
 
@@ -239,7 +239,7 @@ Import markers
 ```
 translated (by machine 🤖) as:
 ```
-Marcadores de importación
+Importar marcadores
 ```
 
 
@@ -259,7 +259,7 @@ File import failed
 ```
 translated (by machine 🤖) as:
 ```
-Importación de archivos no
+Error al importar el archivo
 ```
 
 
@@ -279,7 +279,7 @@ Location services are disabled. To get your current location you must enable the
 ```
 translated (by machine 🤖) as:
 ```
-Los servicios de localización están desactivados. Para obtener su ubicación actual debe habilitar ellos.
+Servicios de localización desactivados. Habilitelos para obtener su ubicación actual.
 ```
 
 
@@ -309,7 +309,7 @@ Search
 ```
 translated (by machine 🤖) as:
 ```
-Búsqueda
+Buscar
 ```
 
 
@@ -359,7 +359,7 @@ Close
 ```
 translated (by machine 🤖) as:
 ```
-Cerca
+Cerrar
 ```
 
 
@@ -379,7 +379,7 @@ Move markers to folder
 ```
 translated (by machine 🤖) as:
 ```
-Desplazamiento de marcadores a la carpeta
+Mover marcadores a la carpeta
 ```
 
 
@@ -389,7 +389,7 @@ Share
 ```
 translated (by machine 🤖) as:
 ```
-Cuota
+Compartir
 ```
 
 
@@ -409,7 +409,7 @@ Snapshot of my markers on Map Marker
 ```
 translated (by machine 🤖) as:
 ```
-Instantánea de mis marcadores en Map Marker
+Captura de mis marcadores en Map Marker
 ```
 
 
@@ -420,7 +420,7 @@ This snapshot was made with the app Map Marker:
 ```
 translated (by machine 🤖) as:
 ```
-Esta instantánea se hizo con la aplicación Map Marker : 
+Esta captura se hizo con la aplicación Map Marker : 
  %s
 ```
 
@@ -431,7 +431,7 @@ Processing data&#8230;
 ```
 translated (by machine 🤖) as:
 ```
-Procesamiento de datos&#8230;
+Procesando datos&#8230;
 ```
 
 
@@ -441,7 +441,7 @@ You have unsaved modifications, do you want to save them?
 ```
 translated (by machine 🤖) as:
 ```
-Usted tiene modificaciones que no haya guardado, ¿quieres salvarlos?
+Hay modificaciones sin guardar, ¿quieres guardarlas?
 ```
 
 
@@ -451,7 +451,7 @@ Use the long press on the map to create a new marker
 ```
 translated (by machine 🤖) as:
 ```
-Utilice la presión prolongada en el mapa para crear un nuevo marcador
+Presione prolongadamente en el mapa para crear un nuevo marcador
 ```
 
 
@@ -512,8 +512,8 @@ Send me an email :-)
 ```
 translated (by machine 🤖) as:
 ```
-Ha encontrado un problema? ¿Tienes una idea de mejora? 
- mándame un email :-)
+¿Has encontrado un problema? ¿Tienes una idea de mejora? 
+ Envíame un email :-)
 ```
 
 
@@ -534,8 +534,8 @@ Rate it 5 stars :-)
 ```
 translated (by machine 🤖) as:
 ```
-Si te gusta la aplicación? 
- Rate it 5 estrellas :-)
+¿Te gusta la aplicación? 
+ Dale 5 estrellas :-)
 ```
 
 
@@ -565,7 +565,7 @@ Acquiring location&#8230;
 ```
 translated (by machine 🤖) as:
 ```
-La adquisición de ubicación&#8230;
+Obteniendo ubicación&#8230;
 ```
 
 
